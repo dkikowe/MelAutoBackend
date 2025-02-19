@@ -130,4 +130,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> 94492ad (first)
