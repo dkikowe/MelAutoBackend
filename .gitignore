@@ -131,6 +131,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 =======
 >>>>>>> 94492ad (first)
+=======
+.env
+>>>>>>> 5287ddf (Removed sensitive data)
