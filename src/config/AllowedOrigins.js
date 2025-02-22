@@ -6,6 +6,8 @@ const allowedOrigins = [
   "http://localhost:3002",
   "http://localhost:2024",
   "http://localhost:5173",
+  "https://mel-auto-main.vercel.app",
+  "https://mel-auto-admin.vercel.app",
 ];
 
 module.exports = allowedOrigins;
